@@ -26,16 +26,17 @@ Key features of the website include:
 - **login.php:** PHP script to handle user login.
 
 ## Screenshots
-![Screenshot 1](/Screen-shots/Screenshot%20(44).png)
-![Screenshot 2](/Screen-shots/Screenshot%20(45).png)
-![Screenshot 3](/Screen-shots/Screenshot%20(46).png)
-![Screenshot 4](/Screen-shots/Screenshot%20(47).png)
-![Screenshot 5](/Screen-shots/Screenshot%20(48).png)
-![Screenshot 6](/Screen-shots/Screenshot%20(50).png)
-![Screenshot 7](/Screen-shots/Screenshot%20(51).png)
-![Screenshot 8](/Screen-shots/Screenshot%20(52).png)
-![Screenshot 9](/Screen-shots/Screenshot%20(53).png)
-![Screenshot 10](/Screen-shots/Screenshot%20(54).png)
+<img src="/Screen-shots/Screenshot%20(44).png" alt="Screenshot 1" width="200">
+<img src="/Screen-shots/Screenshot%20(45).png" alt="Screenshot 2" width="200">
+<img src="/Screen-shots/Screenshot%20(46).png" alt="Screenshot 3" width="200">
+<img src="/Screen-shots/Screenshot%20(47).png" alt="Screenshot 4" width="200">
+<img src="/Screen-shots/Screenshot%20(48).png" alt="Screenshot 5" width="200">
+<img src="/Screen-shots/Screenshot%20(50).png" alt="Screenshot 6" width="200">
+<img src="/Screen-shots/Screenshot%20(51).png" alt="Screenshot 7" width="200">
+<img src="/Screen-shots/Screenshot%20(52).png" alt="Screenshot 8" width="200">
+<img src="/Screen-shots/Screenshot%20(53).png" alt="Screenshot 9" width="200">
+<img src="/Screen-shots/Screenshot%20(54).png" alt="Screenshot 10" width="200">
+
 
 ## Creator
 This project was created by Siddhant Srivastava.
